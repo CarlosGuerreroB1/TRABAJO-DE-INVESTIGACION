@@ -1,0 +1,1 @@
+write(letras[0], letras[3])
